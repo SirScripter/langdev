@@ -44,7 +44,7 @@
     ·
     <a href="https://github.com/SirScripter/langdev/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/SirScripter/langdev/issues/new">Request Feature</a>
   </p>
 </div>
 
